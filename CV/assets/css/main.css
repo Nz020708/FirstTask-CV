@@ -10,13 +10,13 @@
 
 header {
   text-align: center;
-  font-size: 45px;
+  font-size: 27px;
 }
 header .top {
   display: inline-block;
 }
 header .top span {
-  font-weight: 800;
+  font-weight: lighter;
 }
 
 .main_info {
